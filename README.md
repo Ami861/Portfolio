@@ -25,7 +25,7 @@ Je vous souhaite une excellente visite.
 - [Modélisation d'un score d'octroi de crédit](https://github.com/Ami861/scoring-prediction/blob/main/README.md)
 
 ### Analyse financière
-- [Analyse financière d'une entreprise](analyse-financiere.md)
+- [Analyse financière d'une entreprise](https://github.com/Ami861/Portfolio/blob/main/Analyse%20financi%C3%A8re.pptx)
 
 ### Data & Reporting
 - [Tableau de bord de suivi des risques](dashboard-risque.md)

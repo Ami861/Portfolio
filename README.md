@@ -22,7 +22,7 @@ Je vous souhaite une excellente visite.
 ## Mes projets
 
 ### Risque de crédit
-- [Modélisation d'un score d'octroi de crédit](https://github.com/Ami861/scoring-prediction)
+- [Modélisation d'un score d'octroi de crédit]([https://github.com/Ami861/scoring-prediction](https://github.com/Ami861/scoring-prediction/blob/main/README.md)
 
 ### Analyse financière
 - [Analyse financière d'une entreprise](analyse-financiere.md)

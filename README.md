@@ -22,7 +22,7 @@ Je vous souhaite une excellente visite.
 ## Mes projets
 
 ### Risque de crédit
-- [Modélisation d'un score d'octroi de crédit](score-credit.md)
+- [Modélisation d'un score d'octroi de crédit](scoring-prediction.md)
 
 ### Analyse financière
 - [Analyse financière d'une entreprise](analyse-financiere.md)

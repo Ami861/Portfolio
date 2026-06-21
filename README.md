@@ -27,8 +27,6 @@ Je vous souhaite une excellente visite.
 ### Analyse financière
 - [Analyse financière d'une entreprise](https://github.com/Ami861/Portfolio/blob/main/Analyse%20financi%C3%A8re.pdf)
 
-### Data & Reporting
-- [Tableau de bord de suivi des risques](dashboard-risque.md)
 
 
 
